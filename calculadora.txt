@@ -1,2 +1,3 @@
 Declaração de variáveis
 Leitura das entradas do programa
+Criação da função soma
