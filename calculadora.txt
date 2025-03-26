@@ -1,0 +1,3 @@
+Declaração de variáveis - Testes OK
+Leitura das entradas do programa - Testes OK
+Criação da função soma - Testes OK
